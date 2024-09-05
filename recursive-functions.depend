@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1723376091 source:c:\users\jett\documents\c++ projects\recursive-functions\main.cpp
+	<iostream>
+	<algorithm>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+	"Q5.h"
+	"Q6.h"
+	"Q7.h"
+	"Q8.h"
+	"Q9.h"
+	"Q10.h"
+	"Q11.h"
+	"Q12.h"
+	"Q13.h"
+	"Q16.h"
+	"Q17.h"
+
+1723010508 c:\users\jett\documents\c++ projects\recursive-functions\q1.h
+
+1723376141 c:\users\jett\documents\c++ projects\recursive-functions\q2.h
+
+1723011363 c:\users\jett\documents\c++ projects\recursive-functions\q3.h
+
+1723011871 c:\users\jett\documents\c++ projects\recursive-functions\q4.h
+
+1723017226 c:\users\jett\documents\c++ projects\recursive-functions\q5.h
+
+1723017401 c:\users\jett\documents\c++ projects\recursive-functions\q6.h
+
+1723018286 c:\users\jett\documents\c++ projects\recursive-functions\q7.h
+
+1723019163 c:\users\jett\documents\c++ projects\recursive-functions\q8.h
+	<algorithm>
+
+1723188115 c:\users\jett\documents\c++ projects\recursive-functions\q9.h
+
+1723188550 c:\users\jett\documents\c++ projects\recursive-functions\q10.h
+
+1723189300 c:\users\jett\documents\c++ projects\recursive-functions\q11.h
+
+1723190621 c:\users\jett\documents\c++ projects\recursive-functions\q12.h
+
+1723195324 c:\users\jett\documents\c++ projects\recursive-functions\q13.h
+
+1723310359 c:\users\jett\documents\c++ projects\recursive-functions\q16.h
+
+1723375537 c:\users\jett\documents\c++ projects\recursive-functions\q17.h
+

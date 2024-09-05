@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="recursive-functions" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/recursive-functions" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/recursive-functions" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Q1.h" />
+		<Unit filename="Q10.h" />
+		<Unit filename="Q11.h" />
+		<Unit filename="Q12.h" />
+		<Unit filename="Q13.h" />
+		<Unit filename="Q14.h" />
+		<Unit filename="Q15.h" />
+		<Unit filename="Q16.h" />
+		<Unit filename="Q17.h" />
+		<Unit filename="Q2.h" />
+		<Unit filename="Q3.h" />
+		<Unit filename="Q4.h" />
+		<Unit filename="Q5.h" />
+		<Unit filename="Q6.h" />
+		<Unit filename="Q7.h" />
+		<Unit filename="Q8.h" />
+		<Unit filename="Q9.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
